@@ -1,0 +1,6 @@
+framework module Regen {
+  umbrella header "Regen.h"
+
+  export *
+  module * { export * }
+}
